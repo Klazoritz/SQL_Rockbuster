@@ -1,4 +1,4 @@
-# Here is a SQL query displaying the use of a common table expression to show the Top 5 Customers in the Top 10 Cities:
+# Here is a SQL query displaying the use of a **Common Table Expression** to show the Top 5 Customers in the Top 10 Cities:
 
 WITH top_5_customers (customer_id, first_name, last_name, city, country, total_amount_paid) AS 
 (SELECT A.customer_id, A.first_name, A.last_name, C.city, D.country,
