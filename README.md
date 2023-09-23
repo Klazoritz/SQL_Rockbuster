@@ -26,4 +26,4 @@ The data set worked on contained the following tables:
 * Store
 
 # Visualizations
-The visualizations for this project were created in [Tabluea](https://public.tableau.com/app/profile/katherine.lazoritz/viz/RockbusterData_16879020983260/Rockbuster).
+The visualizations for this project were created in [Tableau](https://public.tableau.com/app/profile/katherine.lazoritz/viz/RockbusterData_16879020983260/Rockbuster).
