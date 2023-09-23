@@ -1,4 +1,4 @@
-# Here is a SQL query displaying the Top 5 Customers in the Top 10 Cities using the JOIN function:
+# Here is a SQL query displaying the use of the JOIN function to show Top 5 Customers in the Top 10 Cities:
 
 SELECT A. customer_id, A. first_name, A. last_name, C.city, D.country,
 SUM (E. amount) AS "total amount paid"
