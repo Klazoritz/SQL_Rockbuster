@@ -25,3 +25,5 @@ The data set worked on contained the following tables:
 * Staff
 * Store
 
+# Visualizations
+The visualizations for this project were created in [Tabluea](https://public.tableau.com/app/profile/katherine.lazoritz/viz/RockbusterData_16879020983260/Rockbuster).
